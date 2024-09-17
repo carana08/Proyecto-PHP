@@ -21,7 +21,9 @@ curl_close($ch);
 <head>
     <meta charset="utf-8">
     <title>La próxima producción de marvel</title>
+    <link rel= icon href="https://i.pinimg.com/736x/5e/60/da/5e60da91e33bbb889adcf3553193471e.jpg" >
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
     <link
         rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css">
